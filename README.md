@@ -7,7 +7,7 @@ A simple Firefox extension that adds a "Search on Maps" option to the context me
 1. Open Firefox and type `about:debugging` in the address bar
 2. Click "This Firefox" on the left sidebar
 3. Click "Load Temporary Add-on"
-4. Navigate to the extension directory and select the `manifest.json` file
+4. Navigate to the extension directory and select the `manifest.json` file, or `search-on-map.xpi`
 
 ## Usage
 
