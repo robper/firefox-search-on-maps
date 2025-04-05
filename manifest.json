@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "Search on Maps",
+  "version": "1.0",
+  "description": "Search selected text on Google Maps",
+  "permissions": [
+    "contextMenus",
+    "activeTab"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "icons": {
+    "48": "icons/map-48.png",
+    "96": "icons/map-96.png"
+  }
+} 

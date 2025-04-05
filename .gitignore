@@ -1,0 +1,12 @@
+# Firefox extension specific
+*.xpi
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo 
