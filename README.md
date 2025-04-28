@@ -21,4 +21,7 @@ A simple Firefox extension that adds a "Search on Maps" option to the context me
 - Simple and lightweight
 - Works on any webpage
 - Opens results in a new tab
-- No permissions required beyond context menu and active tab 
+- No permissions required beyond context menu and active tab
+
+# TODO
+Update link or host on AMO https://extensionworkshop.com/documentation/manage/updating-your-extension/#enable-update
